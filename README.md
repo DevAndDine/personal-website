@@ -1,2 +1,4 @@
 # personal-website
-personal website project
+## AI Projects  
+(Need Access permission)  
+https://github.com/orgs/ThinkWriteBuildDevs/repositories  
